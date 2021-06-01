@@ -1,0 +1,92 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+
+#searchbar input[type="text"] {
+  padding: 0 4px;
+  height: 28px;
+  width: 20vw;
+  border-radius: 5px;
+  background-color: white;
+  border: none;
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+
+.button_1 {
+  height: 28px;
+  background-color: white;
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  position: relative;
+  left: -10px;
+}
+.button_1 span{
+  color: var(--clr-accent);
+  font-weight: 700;
+}
+#comment {
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 1000px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+.form{
+  max-width: 70vw;
+  /* display: flex; */
+  margin: 0 auto;
+}
+input[type="text"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+
+}
+input[type="email"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+#subject {
+  height: 100px;
+}
+
+.submitbutton {
+  background-color: #02c2b8;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.submitbutton:hover {
+  background-color: #c26d4c;
+}
+
+.faq {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}

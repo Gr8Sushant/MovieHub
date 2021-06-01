@@ -1,0 +1,385 @@
+{
+  "comment": [
+    {
+      "id": 1,
+      "name": "Sushant",
+      "lastname": "Pokharel",
+      "email": "spokharel95@gmail.com",
+      "comment": "Whats your comment?"
+    },
+    {
+      "fname": "hello",
+      "lname": "hi",
+      "email": "hellohi@gmail.com",
+      "subject": "helli hi",
+      "id": 6
+    },
+    {
+      "fname": "test",
+      "lname": "john",
+      "email": "test.john@gmail.com",
+      "subject": "Perfect ",
+      "id": 7
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Keanu Reeves"
+    },
+    {
+      "id": 2,
+      "name": "Will Smith"
+    },
+    {
+      "id": 3,
+      "name": "John Doe"
+    },
+    {
+      "id": 4,
+      "name": "Walter White"
+    },
+    {
+      "id": 5,
+      "name": "Natalie Brooks"
+    },
+    {
+      "id": 6,
+      "name": "Shane Watson"
+    },
+    {
+      "id": 7,
+      "name": "Heath Ledger"
+    },
+    {
+      "id": 8,
+      "name": "Taylor Brown"
+    },
+    {
+      "id": 9,
+      "name": "John Cena"
+    },
+    {
+      "id": 10,
+      "name": "Brandon Rivers"
+    },
+    {
+      "id": 11,
+      "name": "Kevin Hart"
+    },
+    {
+      "id": 12,
+      "name": "Hasan Minhaj"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Avatar",
+      "Director": "James Cameron",
+      "Stars": "Sam Worthington, Zoe Saldana",
+      "desc": "When his brother is killed in a robbery, paraplegic Marine Jake Sully decides to take his place in a mission on the distant world of Pandora. There he learns of greedy corporate figurehead Parker Selfridge's intentions of driving off the native humanoid 'Na'vi' in order to mine for the precious material scattered throughout their rich woodland. In exchange for the spinal surgery that will fix his legs, Jake gathers knowledge, of the Indigenous Race and their Culture, for the cooperating military unit spearheaded by gung-ho Colonel Quaritch, while simultaneously attempting to infiltrate the Na'vi people with the use of an 'avatar' identity. While Jake begins to bond with the native tribe and quickly falls in love with the beautiful alien Neytiri, the restless Colonel moves forward with his ruthless extermination tactics, forcing the soldier to take a stand - and fight back in an epic battle for the fate of Pandora.",
+      "poster": "/images/avatar.jpg",
+      "rate": "7.8/10",
+      "Budget": "$25000000"
+    },
+    {
+      "id": 2,
+      "title": "Titanic",
+      "Director": "James Cameron",
+      "Stars": " Leonardo DiCaprio, Kate Winslet, Billy Zane",
+      "desc": "84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.",
+      "poster": "/images/titanic.jpg",
+      "rate": "7.8/10",
+      "Budget": "$200000000"
+    },
+    {
+      "id": 3,
+      "title": "Avengers Endgame",
+      "Director": "Anthony Russo, Joe Russo",
+      "Stars": " Robert Downey Jr., Chris Evans, Mark Ruffalo",
+      "desc": "Avengers: Endgame picks up after the events of Avengers: Infinity War, which saw the Avengers divided and defeated. Thanos won the day and used the Infinity Stones to snap away half of all life in the universe. Only the original Avengers - Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye remain, along with some key allies like War Machine, Ant-Man, Rocket Raccoon, Nebula, and Captain Marvel. Each of the survivors deals with the fallout from Thanos' decimation in different ways, but when an opportunity presents itself to potentially save those who vanished, they all come together and set out to defeat Thanos, once and for all.",
+      "poster": "/images/avengers.jpg",
+      "rate": "8.5/10",
+      "Budget": "$356000000"
+    },
+    {
+      "id": 4,
+      "title": "Shawshank Redemption",
+      "Director": "Frank Darabont",
+      "Stars": " Tim Robbins, Morgan Freeman, Bob Gunton",
+      "desc": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.",
+      "poster": "/images/shawshank.jpg",
+      "rate": "9.3/10",
+      "Budget": "$25000000"
+    },
+    {
+      "id": 5,
+      "title": "Forrest Gump",
+      "Director": "Robert Zemeckis",
+      "Stars": "Tom Hanks, Robin Wright, Gary Sinise",
+      "desc": "Forrest Gump is a simple man with a low I.Q. but good intentions. He is running through childhood with his best and only friend Jenny. His 'mama' teaches him the ways of life and leaves him to choose his destiny. Forrest joins the army for service in Vietnam, finding new friends called Dan and Bubba, he wins medals, creates a famous shrimp fishing fleet, inspires people to jog, starts a ping-pong craze, creates the smiley, writes bumper stickers and songs, donates to people and meets the president several times. However, this is all irrelevant to Forrest who can only think of his childhood sweetheart Jenny Curran, who has messed up her life. Although in the end all he wants to prove is that anyone can love anyone.",
+      "poster": "/images/forrest.jpg",
+      "rate": "8.8/10",
+      "Budget": "$55000000"
+    },
+    {
+      "id": 6,
+      "title": "The Godfather",
+      "Director": "Francis Ford Coppola",
+      "Stars": " Marlon Brando, Al Pacino, James Caan",
+      "desc": "The Godfather 'Don' Vito Corleone is the head of the Corleone mafia family in New York. He is at the event of his daughter's wedding. Michael, Vito's youngest son and a decorated WW II Marine is also present at the wedding. Michael seems to be uninterested in being a part of the family business. Vito is a powerful man, and is kind to all those who give him respect but is ruthless against those who do not. But when a powerful and treacherous rival wants to sell drugs and needs the Don's influence for the same, Vito refuses to do it. What follows is a clash between Vito's fading old values and the new ways which may cause Michael to do the thing he was most reluctant in doing and wage a mob war against all the other mafia families which could tear the Corleone family apart.",
+      "poster": "./images/godfather.jpg",
+      "rate": "8.8/10",
+      "Budget": "$6000000"
+    }
+  ],
+  "series": [
+    {
+      "id": 1,
+      "title": "Friends",
+      "Creator": " David Crane, Marta Kauffman",
+      "desc": "Rachel Green, Ross Geller, Monica Geller, Joey Tribbiani, Chandler Bing and Phoebe Buffay are six 20 something year-olds, living off of one another in the heart of New York City. Over the course of ten years, this average group of buddies goes through massive mayhem, family trouble, past and future romances, fights, laughs, tears and surprises as they learn what it really means to be a friend.",
+      "poster": "/images/friends.jpg",
+      "rate": "8.9/10"
+    },
+    {
+      "id": 2,
+      "title": "Game Of Thrones",
+      "Creator": "David Benioff, D.B. Weiss",
+      "desc": "In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea.",
+      "poster": "/images/got.jpg",
+      "rate": "9.3/10"
+    },
+    {
+      "id": 3,
+      "title": "Breaking Bad",
+      "Creator": " Vince Gilligan",
+      "desc": "When chemistry teacher Walter White is diagnosed with Stage III cancer and given only two years to live, he decides he has nothing to lose. He lives with his teenage son, who has cerebral palsy, and his wife, in New Mexico. Determined to ensure that his family will have a secure future, Walt embarks on a career of drugs and crime. He proves to be remarkably proficient in this new world as he begins manufacturing and selling methamphetamine with one of his former students. The series tracks the impacts of a fatal diagnosis on a regular, hard working man, and explores how a fatal diagnosis affects his morality and transforms him into a major player of the drug trade.",
+      "poster": "/images/bb.jpg",
+      "rate": "9.5/10"
+    },
+    {
+      "id": 4,
+      "title": "BoJack Horseman",
+      "Creator": " Raphael Bob-Waksberg",
+      "desc": "After starring in the popular sitcom Horsin Around in the late 80s and early 90s, BoJack Horseman struggles with his deteriorating popularity, depression, addiction, and maintaining the relationships with those he cares about, but can't seem to stop hurting, all while living in the satirical, pun-filled city of Hollywood, California.",
+      "poster": "/images/bojack.jpg",
+      "rate": "8.7/10"
+    },
+    {
+      "id": 5,
+      "title": "Stranger Things ",
+      "Creator": "Matt Duffer, Ross Duffer",
+      "desc": "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to the disappearance of a child, which begins to tear at the fabric of an otherwise peaceful community. Dark government agencies and seemingly malevolent supernatural forces converge on the town, while a few of the locals begin to understand that there's more going on than meets the eye. ",
+      "poster": "/images/st.jpg",
+      "rate": "8.8/10"
+    },
+    {
+      "id": 6,
+      "title": "Designated Survivor ",
+      "Creator": "David Guggenheim",
+      "desc": "Kiefer Sutherland stars as Tom Kirkman, a lower-level cabinet member who is suddenly appointed President of the United States after a catastrophic attack on the US Capitol during the State of the Union, on the highly anticipated series Designated Survivor. In this dramatic thriller, Kirkman will struggle to keep the country and his own family from falling apart, while navigating the highly-volatile political arena and while leading the search to find who is responsible for the attack. ",
+      "poster": "./images/ds.jpg",
+      "rate": "7.6/10"
+    }
+  ],
+  "SearchItems": [
+    {
+      "title": "Avatar",
+      "Director": "James Cameron",
+      "Stars": "Sam Worthington, Zoe Saldana",
+      "desc": "When his brother is killed in a robbery, paraplegic Marine Jake Sully decides to take his place in a mission on the distant world of Pandora. There he learns of greedy corporate figurehead Parker Selfridge's intentions of driving off the native humanoid 'Na'vi' in order to mine for the precious material scattered throughout their rich woodland. In exchange for the spinal surgery that will fix his legs, Jake gathers knowledge, of the Indigenous Race and their Culture, for the cooperating military unit spearheaded by gung-ho Colonel Quaritch, while simultaneously attempting to infiltrate the Na'vi people with the use of an 'avatar' identity. While Jake begins to bond with the native tribe and quickly falls in love with the beautiful alien Neytiri, the restless Colonel moves forward with his ruthless extermination tactics, forcing the soldier to take a stand - and fight back in an epic battle for the fate of Pandora.",
+      "poster": "/images/avatar.jpg",
+      "rate": "7.8/10",
+      "Budget": "$25000000"
+    },
+    {
+      "title": "Titanic",
+      "Director": "James Cameron",
+      "Stars": " Leonardo DiCaprio, Kate Winslet, Billy Zane",
+      "desc": "84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.",
+      "poster": "/images/titanic.jpg",
+      "rate": "7.8/10",
+      "Budget": "$200000000"
+    },
+    {
+      "title": "Avengers Endgame",
+      "Director": "Anthony Russo, Joe Russo",
+      "Stars": " Robert Downey Jr., Chris Evans, Mark Ruffalo",
+      "desc": "Avengers: Endgame picks up after the events of Avengers: Infinity War, which saw the Avengers divided and defeated. Thanos won the day and used the Infinity Stones to snap away half of all life in the universe. Only the original Avengers - Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye remain, along with some key allies like War Machine, Ant-Man, Rocket Raccoon, Nebula, and Captain Marvel. Each of the survivors deals with the fallout from Thanos' decimation in different ways, but when an opportunity presents itself to potentially save those who vanished, they all come together and set out to defeat Thanos, once and for all.",
+      "poster": "/images/avengers.jpg",
+      "rate": "8.5/10",
+      "Budget": "$356000000"
+    },
+    {
+      "title": "Shawshank Redemption",
+      "Director": "Frank Darabont",
+      "Stars": " Tim Robbins, Morgan Freeman, Bob Gunton",
+      "desc": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.",
+      "poster": "/images/shawshank.jpg",
+      "rate": "9.3/10",
+      "Budget": "$25000000"
+    },
+    {
+      "title": "Forrest Gump",
+      "Director": "Robert Zemeckis",
+      "Stars": "Tom Hanks, Robin Wright, Gary Sinise",
+      "desc": "Forrest Gump is a simple man with a low I.Q. but good intentions. He is running through childhood with his best and only friend Jenny. His 'mama' teaches him the ways of life and leaves him to choose his destiny. Forrest joins the army for service in Vietnam, finding new friends called Dan and Bubba, he wins medals, creates a famous shrimp fishing fleet, inspires people to jog, starts a ping-pong craze, creates the smiley, writes bumper stickers and songs, donates to people and meets the president several times. However, this is all irrelevant to Forrest who can only think of his childhood sweetheart Jenny Curran, who has messed up her life. Although in the end all he wants to prove is that anyone can love anyone.",
+      "poster": "/images/forrest.jpg",
+      "rate": "8.8/10",
+      "Budget": "$55000000"
+    },
+    {
+      "title": "The Godfather",
+      "Director": "Francis Ford Coppola",
+      "Stars": " Marlon Brando, Al Pacino, James Caan",
+      "desc": "The Godfather 'Don' Vito Corleone is the head of the Corleone mafia family in New York. He is at the event of his daughter's wedding. Michael, Vito's youngest son and a decorated WW II Marine is also present at the wedding. Michael seems to be uninterested in being a part of the family business. Vito is a powerful man, and is kind to all those who give him respect but is ruthless against those who do not. But when a powerful and treacherous rival wants to sell drugs and needs the Don's influence for the same, Vito refuses to do it. What follows is a clash between Vito's fading old values and the new ways which may cause Michael to do the thing he was most reluctant in doing and wage a mob war against all the other mafia families which could tear the Corleone family apart.",
+      "poster": "./images/godfather.jpg",
+      "rate": "8.8/10",
+      "Budget": "$6000000"
+    },
+    {
+      "title": "Friends",
+      "Creator": " David Crane, Marta Kauffman",
+      "desc": "Rachel Green, Ross Geller, Monica Geller, Joey Tribbiani, Chandler Bing and Phoebe Buffay are six 20 something year-olds, living off of one another in the heart of New York City. Over the course of ten years, this average group of buddies goes through massive mayhem, family trouble, past and future romances, fights, laughs, tears and surprises as they learn what it really means to be a friend.",
+      "poster": "/images/friends.jpg",
+      "rate": "8.9/10"
+    },
+    {
+      "title": "Game Of Thrones",
+      "Creator": "David Benioff, D.B. Weiss",
+      "desc": "In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea.",
+      "poster": "/images/got.jpg",
+      "rate": "9.3/10"
+    },
+    {
+      "title": "Breaking Bad",
+      "Creator": " Vince Gilligan",
+      "desc": "When chemistry teacher Walter White is diagnosed with Stage III cancer and given only two years to live, he decides he has nothing to lose. He lives with his teenage son, who has cerebral palsy, and his wife, in New Mexico. Determined to ensure that his family will have a secure future, Walt embarks on a career of drugs and crime. He proves to be remarkably proficient in this new world as he begins manufacturing and selling methamphetamine with one of his former students. The series tracks the impacts of a fatal diagnosis on a regular, hard working man, and explores how a fatal diagnosis affects his morality and transforms him into a major player of the drug trade.",
+      "poster": "/images/bb.jpg",
+      "rate": "9.5/10"
+    },
+    {
+      "title": "BoJack Horseman",
+      "Creator": " Raphael Bob-Waksberg",
+      "desc": "After starring in the popular sitcom Horsin Around in the late 80s and early 90s, BoJack Horseman struggles with his deteriorating popularity, depression, addiction, and maintaining the relationships with those he cares about, but can't seem to stop hurting, all while living in the satirical, pun-filled city of Hollywood, California.",
+      "poster": "/images/bojack.jpg",
+      "rate": "8.7/10"
+    },
+    {
+      "title": "Stranger Things ",
+      "Creator": "Matt Duffer, Ross Duffer",
+      "desc": "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to the disappearance of a child, which begins to tear at the fabric of an otherwise peaceful community. Dark government agencies and seemingly malevolent supernatural forces converge on the town, while a few of the locals begin to understand that there's more going on than meets the eye. ",
+      "poster": "/images/st.jpg",
+      "rate": "8.8/10"
+    },
+    {
+      "title": "Designated Survivor ",
+      "Creator": "David Guggenheim",
+      "desc": "Kiefer Sutherland stars as Tom Kirkman, a lower-level cabinet member who is suddenly appointed President of the United States after a catastrophic attack on the US Capitol during the State of the Union, on the highly anticipated series Designated Survivor. In this dramatic thriller, Kirkman will struggle to keep the country and his own family from falling apart, while navigating the highly-volatile political arena and while leading the search to find who is responsible for the attack. ",
+      "poster": "./images/ds.jpg",
+      "rate": "7.6/10"
+    },
+    {
+      "id": 1,
+      "title": "Best Actress",
+      "name": "Renee Zellweger",
+      "image": "./images/judy.jpg",
+      "movie": "Judy"
+    },
+    {
+      "id": 2,
+      "title": "Best Actor",
+      "name": "Joaquin Phoenix",
+      "image": "./images/jaq.jpg",
+      "movie": "Joker"
+    },
+    {
+      "id": 3,
+      "title": "Best Supporting Actress",
+      "name": "Laura Dern",
+      "image": "./images/laura.jpg",
+      "movie": "Marriage Story"
+    },
+    {
+      "id": 4,
+      "title": "Best Supporting Actor",
+      "name": "Brad Pitt",
+      "image": "./images/brad.jpg",
+      "movie": "Once Upon A Time in Hollywood"
+    },
+    {
+      "id": 5,
+      "title": "Best Picture",
+      "name": "Parasite",
+      "image": "./images/parasite.jpg",
+      "movie": "Parasite"
+    },
+    {
+      "id": 6,
+      "title": "Best Director",
+      "name": "Bong joon-ho",
+      "image": "./images/bong.jpg",
+      "movie": "Parasite"
+    },
+    {
+      "id": 7,
+      "title": "Best Animated Feature",
+      "name": "Toystory 4",
+      "image": "./images/toy.jpg",
+      "movie": "Toystory 4"
+    }
+  ],
+  "oscars": [
+    {
+      "id": 1,
+      "title": "Best Actress",
+      "name": "Renee Zellweger",
+      "image": "./images/judy.jpg",
+      "movie": "Judy"
+    },
+    {
+      "id": 2,
+      "title": "Best Actor",
+      "name": "Joaquin Phoenix",
+      "image": "./images/jaq.jpg",
+      "movie": "Joker"
+    },
+    {
+      "id": 3,
+      "title": "Best Supporting Actress",
+      "name": "Laura Dern",
+      "image": "./images/laura.jpg",
+      "movie": "Marriage Story"
+    },
+    {
+      "id": 4,
+      "title": "Best Supporting Actor",
+      "name": "Brad Pitt",
+      "image": "./images/brad.jpg",
+      "movie": "Once Upon A Time in Hollywood"
+    },
+    {
+      "id": 5,
+      "title": "Best Picture",
+      "name": "Parasite",
+      "image": "./images/parasite.jpg",
+      "movie": "Parasite"
+    },
+    {
+      "id": 6,
+      "title": "Best Director",
+      "name": "Bong joon-ho",
+      "image": "./images/bong.jpg",
+      "movie": "Parasite"
+    },
+    {
+      "id": 7,
+      "title": "Best Animated Feature",
+      "name": "Toystory 4",
+      "image": "./images/toy.jpg",
+      "movie": "Toystory 4"
+    }
+  ]
+}

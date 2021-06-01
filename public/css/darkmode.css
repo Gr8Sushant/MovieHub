@@ -1,0 +1,25 @@
+:root {
+    --clr-light: #e6e6e6;
+    --clr-dark: #222222;
+    --foreground: var(--clr-dark);
+    --background: var(--clr-light);
+    --clr-primary: rgb(41, 41, 41);
+    --clr-secondary: #cecece;
+    --clr-accent: #02c2b8;
+}
+
+.darkmode {
+    --clr-light: #222222;
+    --clr-dark: #e6e6e6;
+    --foreground: var(--clr-dark);
+    --background: var(--clr-light);
+    --clr-primary: #cecece;
+    --clr-secondary: rgb(41, 41, 41);
+    --clr-accent: #02c2b8;
+}
+
+
+body {
+    background: var(--background);
+    color: var(--foreground);
+}

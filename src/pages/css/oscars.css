@@ -1,0 +1,28 @@
+
+.oscar-main{
+    max-width: 800px;
+    margin-left: 10vw;
+}
+.oscar-name{
+    font-size: 18px;
+    color: var(--clr-primary);
+    padding: 10px 0;
+}
+.oscar-img{
+    overflow: hidden;
+    height: auto;
+    width: 50vw;
+    margin: 50px 0;
+}
+.oscar-img img{
+    width: 100%;
+    border: 5px var(--clr-accent) solid;
+}
+.title-main{
+    margin: 50px 0;
+    font-size: 25px;
+    font-weight: 600;
+    color: var(--clr-secondary);
+    background-color: var(--clr-accent);
+    text-align: center;
+}
